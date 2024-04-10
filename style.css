@@ -106,6 +106,7 @@ nav > a > img {
   background-color: yellow;
   padding: 10px 10px;
   border-radius: 20px;
+  margin: 0px -10px 0px -10px;
 }
 nav svg {
   color: yellow;
